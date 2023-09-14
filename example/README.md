@@ -1,6 +1,6 @@
 # example
 
-A new Flutter project.
+Changet a Flutter project
 
 ## Getting Started
 
