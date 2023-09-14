@@ -1,6 +1,6 @@
 name: app_bar_dmp
-description: A new Flutter project for the Appbar with customizable color styles.
-version: 0.0.1
+description: A new Flutter project for the Appbar update color styles.
+version: 0.0.2
 homepage: https://github.com/davidmp/app_bar_dmp
 
 environment:
